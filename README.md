@@ -2,17 +2,17 @@
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-*What is a virtual machine
+* What is a virtual machine
 
-*What is Vagrant
+* What is Vagrant
 
-*Who wrote Vagrant
+* Who wrote Vagrant
 
-*what is Ubuntu
+* what is Ubuntu
 
-*What does "Ubuntu" mean
+* What does "Ubuntu" mean
 
-*How to use VMs with Vagrant
+* How to use VMs with Vagrant
 
-*What does the command uname do
+* What does the command uname do
 
